@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package open.close.principle;
+package taller_solid.ISP;
 
 /**
  *
- * @author TBeltran
+ * @author Bryan
  */
-public interface IElectrico {
-  
-    int attackEnemy();
-    
+//BUENA IMPLEMENTACION DE ISP
+public interface Jugable {
+    public int retricccionEdad();
+    public String Plataforma();
 }

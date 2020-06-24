@@ -7,12 +7,9 @@ package taller_solid.OCP;
 
 /**
  *
- * @author Bryan
+ * @author TBeltran
  */
-public class OpenClosePrinciple {
-    
-    public OpenClosePrinciple(){
-        
-    }
-    
+public class Pokemon {
+    protected int puntos_ataque;
+
 }

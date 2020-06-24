@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package open.close.principle;
+package taller_solid.SRP;
 
 /**
  *
- * @author TBeltran
+ * @author Rafael
  */
-public class Pokemon {
-    protected int puntos_ataque;
-
+class User {
+    
 }

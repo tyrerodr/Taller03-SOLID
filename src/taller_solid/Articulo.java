@@ -9,9 +9,8 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Pago {
-    //atributos aqui
-    public void realizarCobro(double monto){
-        //cargar al monto de compra al medio de pago    
-    }
+public class Articulo {
+    //metodos y atributos
+    
+    
 }

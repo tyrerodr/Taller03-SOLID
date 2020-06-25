@@ -5,6 +5,8 @@
  */
 package taller_solid;
 
+import java.util.List;
+
 /**
  *
  * @author Bryan

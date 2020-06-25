@@ -9,9 +9,11 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Pago {
-    //atributos aqui
-    public void realizarCobro(double monto){
-        //cargar al monto de compra al medio de pago    
+public class Factura {
+    public void calcaualrImpuestosFactura(){
+        //calcula los impuestos asocidados a la compra
+    }
+    public void generarFactura(){
+        //generar nueva Factura
     }
 }

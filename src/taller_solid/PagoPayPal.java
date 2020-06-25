@@ -9,8 +9,8 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class PayPal extends Pago{
-    private boolean loggedIn; //conexion a cuenta PayPal
+public class PagoPayPal extends Pago{
+    private boolean loggedIn; //conexion a cuenta PagoPayPal
     @Override
     public void realizarCobro(double monto){
         if(!loggedIn){

@@ -16,7 +16,5 @@ public class Pikachu extends Pokemon implements IElectrico{
     public int attackEnemy() {
         return this.puntos_ataque * 125;
     }
-
-
     
 }

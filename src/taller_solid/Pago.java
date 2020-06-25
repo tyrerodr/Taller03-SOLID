@@ -9,8 +9,9 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Pago {
+public class Pago  implements IPago{
     //atributos aqui
+    @Override
     public void realizarCobro(double monto){
         //cargar al monto de compra al medio de pago    
     }

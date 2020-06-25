@@ -9,15 +9,6 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Notificacion {
-    private int tipoNotifiacion;
-    public void notificar(Pago pago){
-        if(tipoNotifiacion==1){
-            //enviarEmail();
-        }
-        else{
-            //enviarSMS();
-        }
-        
-    }
+public interface IPago {
+     public void realizarCobro(double monto);
 }

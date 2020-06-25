@@ -11,11 +11,15 @@ package taller_solid;
  */
 public class PagoPayPal extends Pago{
     private boolean loggedIn; //conexion a cuenta PagoPayPal
+
     @Override
-    public void realizarCobro(double monto){
-        if(!loggedIn){
-            return;
-        }
+    public void realizarCobro(double monto){ 
+        if(!loggedIn)
+            logIn();       
         //cargar el monto de compra al medio de pago
+    }
+    
+    public void logIn(){
+       loggedIn = true;
     }
 }

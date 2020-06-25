@@ -10,7 +10,7 @@ package taller_solid;
  * @author Bryan
  */
 public class Factura {
-    public void calcaualrImpuestosFactura(){
+    public void calcularImpuestosFactura(){
         //calcula los impuestos asocidados a la compra
     }
     public void generarFactura(){

@@ -7,19 +7,10 @@ package taller_solid;
 
 /**
  *
- * @author Bryan
+ * @author TBeltran
  */
-public class Taller_SOLID {
-
-    /**
-     * @param args the command line arguments
-     */
+public interface INotificacion {
     
-    
-    
-    
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    void notificar(IPago pago);
     
 }

@@ -7,12 +7,14 @@ package taller_solid.OCP;
 
 /**
  *
- * @author Bryan
+ * @author TBeltran
  */
-public class OpenClosePrinciple {
-    
-    public OpenClosePrinciple(){
-        
+public class Electrode extends Pokemon implements IElectrico{
+
+    //Método para realzar daño de Electrode
+    @Override
+    public int attackEnemy() {
+        return this.puntos_ataque * 100;
     }
     
 }

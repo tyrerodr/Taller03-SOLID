@@ -2,6 +2,7 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group>
             <file>file:/C:/Users/HP/Desktop/4to%20Semestre/Diseño%20de%20Software/Talleres/Taller3-SOLID/Taller03-SOLID/src/taller_solid/OCP/Pikachu.java</file>
             <file>file:/C:/Users/HP/Desktop/4to%20Semestre/Diseño%20de%20Software/Talleres/Taller3-SOLID/Taller03-SOLID/src/taller_solid/OCP/Electrode.java</file>
@@ -15,5 +16,8 @@
             <file>file:/C:/Users/HP/Desktop/4to%20Semestre/Diseño%20de%20Software/Talleres/Taller3-SOLID/Taller03-SOLID/src/taller_solid/OCP/IElectrico.java</file>
             <file>file:/C:/Users/HP/Desktop/4to%20Semestre/Diseño%20de%20Software/Talleres/Taller3-SOLID/Taller03-SOLID/src/taller_solid/ISP/Jugable.java</file>
         </group>
+=======
+        <group/>
+>>>>>>> 7a523eace74c7c178a24b913521e64100b1866ac
     </open-files>
 </project-private>

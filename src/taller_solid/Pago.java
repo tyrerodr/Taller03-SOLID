@@ -9,13 +9,10 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Taller_SOLID {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Pago  implements IPago{
+    //atributos aqui
+    @Override
+    public void realizarCobro(double monto){
+        //cargar al monto de compra al medio de pago    
     }
-    
 }

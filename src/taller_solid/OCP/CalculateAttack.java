@@ -11,10 +11,11 @@ package taller_solid.OCP;
  */
 public class CalculateAttack {
     
-    //APLICANDO OCP Y SRP
-    public int calculateDamagePElectrico(IElectrico p){
-        return p.attackEnemy();
-    }
+     //APLICANDO OCP Y SRP
+     public int calculateDamagePElectrico(IElectrico p){
+         return p.attackEnemy();
+     }
+     
     
     //SIN APLICAR OCP (MALA IMPLEMENTACIÓN)
     /*public int calculateDamagePikachu(Pikachu p){

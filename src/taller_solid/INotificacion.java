@@ -3,18 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package taller_solid.OCP;
+package taller_solid;
 
 /**
  *
  * @author TBeltran
  */
-public class Electrode extends Pokemon implements IElectrico{
+public interface INotificacion {
     
-    //Método para realzar daño de Electrode
-    @Override
-    public int attackEnemy() {
-        return this.puntos_ataque * 100;
-    }
+    void notificar(IPago pago);
     
 }

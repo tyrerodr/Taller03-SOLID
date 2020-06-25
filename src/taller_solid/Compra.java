@@ -12,14 +12,13 @@ import java.util.List;
  * @author Bryan
  */
 public class Compra {
+    private IPagos _pago;
     private Pago Pago;
     private PagoPayPal pagoPayPal;
     private List articulos;
-    public Compra(Pago pago){
-        //inicializaciones
-    }
-    public Compra(PagoPayPal pagoPayPal){
-        //inicializaciones
+    
+    public Compra(IPagos pagos){
+        this._pago=pagos;
     }
     public void agregarArticulo(Articulo articulo){
         //agregar un articulo a la compra

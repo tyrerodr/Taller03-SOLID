@@ -2,6 +2,20 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Compra.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Factura.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/Shopping.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/PagoPayPal.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Notificacion.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/ShoppingBasket.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Taller_SOLID.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Articulo.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/PaymentMethod.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/Pago.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/CreditCard.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/Persistence.java</file>
+            <file>file:/C:/Users/Rafael/Pictures/solid/Taller03-SOLID/src/taller_solid/DIP/SqlDatabase.java</file>
+        </group>
     </open-files>
 </project-private>

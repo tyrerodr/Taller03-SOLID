@@ -9,13 +9,17 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class PagoPayPal implements  IPagos{
+public class PagoPayPal extends Pago{
     private boolean loggedIn; //conexion a cuenta PagoPayPal
-    @Override
-    public void realizarCobro(double monto){
-        if(!loggedIn){
+
+    public class Cobro extends Pago {
+        public void realizarCobro(double monto){ 
+            if(!loggedIn){
             return;
         }
         //cargar el monto de compra al medio de pago
     }
+        
+
+}
 }

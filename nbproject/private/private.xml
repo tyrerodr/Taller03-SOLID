@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/SRP/DataBase.java</file>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/SRP/User.java</file>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/Taller_SOLID.java</file>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/OCP/OpenClosePrinciple.java</file>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/SRP/UserLogin.java</file>
-            <file>file:/C:/Users/Rafael/Videos/SOLID/Taller03-SOLID/src/taller_solid/SRP/EmailSender.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

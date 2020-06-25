@@ -9,17 +9,15 @@ package taller_solid;
  *
  * @author Bryan
  */
-public class Taller_SOLID {
-
-    /**
-     * @param args the command line arguments
-     */
-    
-    
-    
-    
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Notificacion {
+    private int tipoNotifiacion;
+    public void notificar(Pago pago){
+        if(tipoNotifiacion==1){
+            //enviarEmail();
+        }
+        else{
+            //enviarSMS();
+        }
+        
     }
-    
 }
